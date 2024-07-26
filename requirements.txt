@@ -3,6 +3,9 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+xgboost
 klib
 openpyxl
 streamlit
+joblib
+shap
