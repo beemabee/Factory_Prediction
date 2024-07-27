@@ -1,13 +1,13 @@
 # Unacceptable Product Prediction
 
+This Project include the `Dashboard` using looker studio: https://lookerstudio.google.com/u/0/reporting/af684925-6d5b-4b7a-9e5b-f5ed9e48b797/page/mVE7D 
+
 ## Project Overview
 This project aims to predict the Non-Conformance (NC) percentage or unacceptable product in a manufacturing process using machine learning techniques. The project involves data cleaning, exploratory data analysis, model training, and the development of a Streamlit web application for real-time predictions and model interpretability.
 
-I'm also include the `Dashboard` for analyzing the dataset and visualization using looker studio: https://lookerstudio.google.com/u/0/reporting/af684925-6d5b-4b7a-9e5b-f5ed9e48b797/page/mVE7D 
-
 ## Demo
 Here is a demo of the NC or `Unacceptable Product` prediction application based on Machine Learning using the XGBoost algorithm. SHAP analysis is also used to provide an overview of the influence of each feature on the NC prediction.
-![Alt Text](https://github.com/beemabee/Factory_Prediction/tree/main/documentation/demo.gif)
+![Alt Text](https://github.com/beemabee/Factory_Prediction/raw/main/documentation/demo.gif)
 
 
 ## Project Structure

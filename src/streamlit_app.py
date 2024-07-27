@@ -1,16 +1,22 @@
 import streamlit as st
 import joblib
+import os
 import pandas as pd
 import shap
 import matplotlib.pyplot as plt
 import numpy as np
 from datetime import time, datetime
 
+# Dapatkan path absolut ke direktori saat ini
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 # Muat model dan scaler
 @st.cache_resource
 def load_model_and_scaler():
-    model = joblib.load('../model/best_model.joblib')
-    scaler = joblib.load('../model/scaler.joblib')
+    model_path = os.path.join(current_dir, '..', 'model', 'best_model.joblib')
+    scaler_path = os.path.join(current_dir, '..', 'model', 'scaler.joblib')
+    model = joblib.load(model_path)
+    scaler = joblib.load(scaler_path)
     return model, scaler
 
 model, scaler = load_model_and_scaler()
