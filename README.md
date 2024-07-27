@@ -1,21 +1,24 @@
 # Unacceptable Product Prediction
 
-This Project include the `Dashboard` using looker studio: https://lookerstudio.google.com/u/0/reporting/af684925-6d5b-4b7a-9e5b-f5ed9e48b797/page/mVE7D 
+- This project has already been deployed on `Streamlit` and can be accessed through this link: https://nc-prediction.streamlit.app/
+
+- I've also included a `Dashboard` using Looker Studio: https://lookerstudio.google.com/u/0/reporting/af684925-6d5b-4b7a-9e5b-f5ed9e48b797/page/mVE7D for analysis and visualization
 
 ## Project Overview
-This project aims to predict the Non-Conformance (NC) percentage or unacceptable product in a manufacturing process using machine learning techniques. The project involves data cleaning, exploratory data analysis, model training, and the development of a Streamlit web application for real-time predictions and model interpretability.
+This project aims to predict the Non-Conformance (NC) percentage or unacceptable product rate in a manufacturing process using machine learning techniques. The project involves data cleaning, exploratory data analysis, model training, and the development of a Streamlit web application for real-time predictions and model interpretability.
 
 ## Demo
 Here is a demo of the NC or `Unacceptable Product` prediction application based on Machine Learning using the XGBoost algorithm. SHAP analysis is also used to provide an overview of the influence of each feature on the NC prediction.
 ![Alt Text](https://github.com/beemabee/Factory_Prediction/raw/main/documentation/demo.gif)
 
-
 ## Project Structure
+- `data/`: Stores the dataset and new_data after preprocessing
+- `documentation/`: Stores the documentation and demo
+- `model/`: Stores trained models and scalers
 - `src/`: Contains the source code
   - `training.ipynb`: Jupyter notebook for data preprocessing and model training
-  - `app.py`: Streamlit application for predictions and SHAP analysis
-- `model/`: Stores trained models and scalers
-- `data/`: Stores the dataset and new_data after preprocessing
+  - `streamlit_app.py`: Streamlit application for predictions and SHAP analysis
+- `requirement.txt`: Stores the required package
 
 ## Installation
 1. Clone this repository:
@@ -28,6 +31,12 @@ Here is a demo of the NC or `Unacceptable Product` prediction application based 
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+   or
+
+   ```
+   conda create --name ENVIRONTMENT_NAME python=3.11
+   conda activate ENVIRONTMENT_NAME
    ```
 
 3. Install the required packages:
@@ -45,7 +54,7 @@ Here is a demo of the NC or `Unacceptable Product` prediction application based 
    - Hyperparameter tuning
    - Model evaluation
 
-## Running the Streamlit Application
+## Running the Local Streamlit Application
 1. Ensure you have completed the model training step.
 2. Run the Streamlit app:
    ```
