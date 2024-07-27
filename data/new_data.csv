@@ -1,0 +1,759 @@
+Years,Month,Week,FindingArea ,Factory,GroupingFactory,DepartmentResponsible,Product,MainModel,Model/Production Code,QTY,SamplingChek,SamplingNC,NC %,NCDescription,TypeOfNC,Factor,GroupingFactor,LeaderName,DateProduce,TimeProduce,Shift
+2014,Jan,2nd,FG,ABC,ABC,Mr. Februari,SG,SG 3C41,"SG 3C41 (168mm) (LH non-turn) 
+235U7010326",480.0,20,1.0,0.05,Axle Tread Damage,Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jan,2nd,FG,ABC,ABC,Mr. Februari,SM,SM-CJ8S20,"SM-CJ8S20 Unit Set GP1
+30015685",1425.0,20,1.0,0.05,No Screw,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jan,2nd,OTC,ABC,ABC,Mr. Maret,FD,FD-R2030,"FD-R2030 (BRAZED ON) OTC (Packing)
+22B22400037",100.0,25,3.5,0.45,"Wrong Tick OTC Sticker Model
+Spec: FD-R2030 F, Actual: FD-R2030 B",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jan,2nd,FG,ABC,ABC,Mr. April,BB,BB-ES300,"BB-ES300 113 73
+21V90003056",50.0,50,2.0,0.04,Factory Laser NC,Appearance,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jan,3rd,FG,ABC,ABC,Mr. April,BB,BB-UN26K,"BB-UN26K LL123 68
+21S1D120356",1000.0,5,2.0,0.4,"BC 1.37 Threading (CA) Shell, No Go Gauge Can go",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jan,3rd,FG,ABC,ABC,Mr. Mei,RD,RD M310,"RD M310 OTC (Packing)
+25W87200237",400.0,25,1.0,0.04,IPI No printing,Part,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jan,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",600.0,25,1.0,0.04,CA Bolt Jammed,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jan,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",600.0,25,1.0,0.04,Lens Printing Out Position,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jan,4th,FG,HCL,SUBCON,Mr. Dafit,CS,CS-HG201,"CS-HG201 BO
+40050112",480.0,95,3.5,0.0125,Sticker Deformed,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jan,4th,FG,ABC,ABC,Mr. Januari,SL,SL-MT500,"SL-MT500-IL
+20L72001056",600.0,25,1.0,0.04,No Lever Axle Seal Sticker.,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,1st,FG,ABC,ABC,Mr. Januari,SL,SL-M3100,"SL-M3100-2L
+20LJ2000066",800.0,25,3.0,0.12,Upper Cover & Lower Cover unmatching,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Feb,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF65,"ST-EF65-2A (F) 3 SPEED
+26UG2001256",550.0,25,1.0,0.04,Bracket No Laser,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",450.0,25,1.0,0.04,No BL Grip Spring,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-EF65,"ST-EF65-2A (F) 3 SPEED
+26UG2001256",600.0,25,1.0,0.04,Indicator Jammed,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,2nd,FG,ABC,ABC,Mr. June,DH,DH-C30003N,"DH-C30003N (Nut Type)
+22AV8001126",600.0,20,2.0,0.1,Rotation Touching,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-M4120S,"RD-M4120S GS (DATT)
+23HN3000046",480.0,20,3.5,0.25,BM Scratches,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,3rd,FG,ABC,ABC,Mr. April,BB,BB-ES5500,"BB-ES5500 118.5 68
+21S93110256",60.0,10,1.0,0.1,"Left Serration Damage
+Effected Tapper Point Can't Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Feb,3rd,FG,ABC,ABC,Mr. July,SM,SMDUE70B,"SMDUE70B
+27S0002027",25.0,5,3.5,0.45,Warning Sticker is Not Pasted to the Cover,Part,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Feb,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-R
+20CM10010D6",720.0,10,1.0,0.1,"Lever Member Offset
+Spec: 7.73-11.03 mm, Actual: 6.58 mm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-M4100,"CS-M4100-10 11-46T
+20LF146002",192.0,5,1.0,0.2,"Wobbling Horizontal (46T) out spec
+Spec: ≤ 0.45 mm       Actual: 0.54 mm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Feb,4th,FG,ABC,ABC,Mr. April,BB,BB-UN26,"BB-UN26 D-EL 68 B
+21S16101356",100.0,10,1.0,0.1,"Point C Under Spec
+Spec: 29.5~30.5 mm      Actual: 29.30 mm ",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Mar,1st,FG,ABC,ABC,Mr. Januari,SL,SL-M5100,"SL-M5100-IL 
+20L92001066",200.0,25,3.5,0.45,"Monhly Code Expire
+Spec: SA, SB, SC, SD     Actual: RL",Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Mar,2nd,FG,ABC,ABC,Mr. Mei,RD,RD TY500,"RD TY500 (REVERSE ADPT)
+25YK30020D6",100.0,25,1.0,0.04,No Clamp Washer,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Mar,3rd,FG,ABC,ABC,Mr. Gorga,SM,SM-DUE61T,"SM-DUE61T
+279R0001026",240.0,20,1.0,0.05,Cover L High Gating,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Mar,3rd,FG,ABC,ABC,Mr. Mei,RD,RD M360 ,"RD M360 OTC 
+25WP3200237",400.0,25,1.0,0.04,B. Axle Collar Broken,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Mar,3rd,FG,ABC,ABC,Mr. Mei,RD,RD M2000 ,"RD M2000 (DATT)
+239T3000046",960.0,20,1.0,0.05,"Guide Pulley Rotation Jam
+Due to No Pulley Bush",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Mar,3rd,FG,ABC,ABC,Mr. Februari,SM,CJ8S20,"CJ8S20 PULLEY & COVER UNIT
+30043052",522.5,95,3.5,0.012,"Fixing Screw Tightening Torque Low
+Spec: 1.1-1.6 kgf.cm    Actual: 0.9, 1.0, 0.7 kgf.cm  ",Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2014,Apr,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,5,3.5,0.45,"Cover Fixing Screw Tigtening Torque Out Spec
+Spec: 3-5 kgf.cm  
+Actual: 5.8, 6.2, 6.0, 6.4, 6.0
+           6.4, 6.2, 6.8, 6.4, 6.4 kgf.cm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Apr,1st,FG,ABC,ABC,Mr. Maret,FD,FD-M315,"FD-M315 T6 (M)
+22EE1301066",1200.0,7,2.0,0.2857142857142857,"Chain Gude Angle Out Spec
+Spec: 23.0-24.3mm, Actual: 24.43, 24.91mm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Apr,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-M5120S,"RD-M5120S GS (DATT)
+23HM3000046",320.0,20,1.0,0.05,"Fricion and P Tension Toque NC
+Spec 3.40 ~ 4.96Nm          Actual 1.15Nm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Apr,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,Cover Fixing Screw Untighten,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Apr,4th,FG,ABC,ABC,Mr. April,BB,BB-ES51,"BB-ES51 113 68
+21S81100156",50.0,50,1.0,0.02,Shell Thread Damage,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Apr,4th,FG,ABC,ABC,Mr. Januari,SL,ST-TX800,"ST-TX800 RL-Double OTC 
+101T3001017",100.0,10,1.0,0.1,Mix Upper Cover,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-M5120,"RD-M5120 SGS D-ATT
+23HM3000046",480.0,5,1.0,0.2,"Friction + P.Tension Torque NC
+Spec: 3.40-4.76 Nm     Actual: 5.31 Nm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,May,3rd,FG,ABC,ABC,Mr. Februari,SM,SM-CJ8S20,"SM-CJ8S20 Pulley & Sub Unit 
+30043052",1425.0,95,2.0,0.004,No Inking,Part,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RDM5120S,"RDM5120S GS D-ATT
+23HM3000046",480.0,20,1.0,0.05,Guide Pulley Slanted,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,May,4th,FG,ABC,ABC,Mr. Januari,SL,STR3000L,"STR3000L F 1800 SS2
+205U20010D6",720.0,32,1.0,0.03125,Release Lever Over Stroke,Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jun,1st,FG,ABC,ABC,Mr. Maret,FD,FD-M313,"FD-M313 D6 L
+25PT1302066",1200.0,7,2.0,0.2857142857142857,"Chain Guide Angle Out Spec
+Spec: 13.25-13.95 mm, Actual: 14.09, 14.18 mm",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-TY300 ,"RD-TY300 DATT
+25YJ30000D6",720.0,28,1.0,0.03571428571428571,Bracket Member Damage,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,2nd,FG,ABC,ABC,Mr. Februari,SG,SG-5R30,"SG-5R30 BTS 36#
+238J50037F6",256.0,16,1.0,0.0625,No Sticker on Hubshell,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,1st,FG,HCL,SUBCON,Mr. Dafit,SL,SL-5S30,"SL-5S30
+26WYA06D5D6",400.0,40,3.0,0.075,Indicator Printing NC,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,1st,FG,ABC,ABC,Mr. Hardiansyah,FD,FD-T3000,"FD-T3000 TS6
+25RR1302066",1200.0,25,1.0,0.04,Clamp Printing NC,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jun,3rd,FG,ABC,ABC,Mr. Maret,FD,FD-R2000,"FD-R2000 (BRAZED-ON)
+22B12400066",1200.0,50,1.0,0.02,No Bracket Fixing Bolt,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,3rd,FG,ABC,ABC,Mr. Hariyanto,RD,RD-TX800,"RD-TX800 L DATT
+25PJ30000D6",600.0,25,1.0,0.04,"CF Nut Loose
+Spec: 0.2-10 kgf       Actual: 0.01 kgf",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jun,4th,FG,ABC,ABC,Mr. Januari,SL,ST-EF4,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,Double BL Grip Adjust Spring,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jun,4th,FG,ABC,ABC,Mr. Mei,RD,RD-M5120S,"RD-M5120S GS (DATT) 
+23HM3000046",480.0,10,3.0,0.3,"CF Nut Loosening Torque is over spec
+Spec:  0.2 ~ 10kgf·cm, Actual: 19.5, 22.0, 16.0",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jul,2nd,FG,ABC,ABC,Mr. Februari,SG,SG 3C41,"SG 3C41 (178mm) (LH non-turn)
+235U7020326",480.0,20,1.0,0.05,Hub Shell Rusty Mark,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jul,2nd,FG,ABC,ABC,Mr. June,DH,DH-C30001N,"DH-C30001N (Nut Type) 
+229K8000126",600.0,20,1.0,0.05,LH Seal Support Crack,Appearance,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jul,2nd,FG,ABC,ABC,Mr. Mei,RD,RD TY300,"RD TY300 (DATT) 
+25YJ30000D6",720.0,28,1.0,0.03571428571428571,No Pully Cap,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jul,3rd,FG,ABC,ABC,Mr. Januari,SL,SL-M5100,"SL-M5100-IL 
+20L92001066",50.0,50,1.0,0.02,No Washer,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jul,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",600.0,25,3.5,0.4,"Gap Between Upper Cap & Upper Cover
+Spec ≤ 0.45 mm            Actual  1.2 mm",Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jul,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,Gap Between Barcket & Lower Cover,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Jul,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED 
+26VW1000056",600.0,25,1.0,0.04,Upper Cover Printing NC,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Jul,3rd,FG,HCL,SUBCON,Mr. Dafit,CS,CS M5100,"CS M5100
+300043058",1425.0,30,1.0,0.03333333333333333,Lockring GP Plating Yellowish,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Aug,1st,FG,ABC,ABC,Mr. June,DH,DH-3D32,"DH-3D32 (NT Type)
+228T8001426",600.0,20,1.0,0.05,"Rotor Base Diameter Out of Spec
+Spec 32.85 - 33.00 mm, Actual: 33.60mm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Aug,1st,FG,ABC,ABC,Mr. June,DH,DH-3D37,"DH-3D37 (QR Type)
+228P800F426",600.0,10,2.0,0.2,"Effective Threading length for Lockring tightening is NC,
+Plug Thread Gauge BC31X23.7 Go Can not Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Aug,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-TY300 ,"RD-TY300 (DATT)
+25YJ30000D6",720.0,12,1.0,0.08333333333333333,No IPI,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Aug,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300 ,"BB-UN300 LL 113.5 68 
+22FX0004156",350.0,5,1.0,0.2,"Point A out spec.
+Spec: 2.90-3.50mm      Actual: 2.75mm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Aug,4th,FG,ABC,ABC,Mr. Januari,SL,ST-A070,"ST-A070 (F)
+26WB20002D6",240.0,30,1.0,0.03333333333333333,Release Lever No Return,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Aug,4th,FG,SIP,SUBCON,Mr. Hardiansyah,SL,SL-M2010 ,"SL-M2010 9R
+20HV1000066",1425.0,25,1.0,0.04,Lens is Scratches,Appearance,Method,Assy Process,,2018-12-13,00:00:00,1st
+2014,Aug,4th,FG,ABC,ABC,Mr. July,SM,SMDUE50C,"SMDUE50C
+279P0002026",600.0,6,3.5,0.45,Packing Tape Come Off,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Sep,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-HG201,"CS-HG201-9 (BO)
+21WL1320056",280.0,30,1.0,0.03333333333333333,Plating White Mark,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Sep,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",100.0,25,1.0,0.04,Upper Cap Printing NC,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Sep,2nd,FG,ABC,ABC,Mr. Mei,RD,RD M310,"RD M310 L DATT
+25W87200256",1200.0,25,1.0,0.04,No Pulley Cap,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Sep,4th,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",400.0,25,1.0,0.04,No Outer Adjust Spring,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Oct,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-TX800,"ST-TX800 (R) 8 SPEED
+201T1002056",550.0,25,3.5,0.2,"Mix Inner Wire. 
+Spec: 2500mm       Actual: 2400mm",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Oct,2nd,FG,ABC,ABC,Mr. Mei,RD,RD M310,"RD M310 OTC
+25W87200237",400.0,25,3.5,0.45,"Wrong Pasting OCS Label.
+Spec RDM310L DATT
+25W87200237
+Actual STR3030L F 100 SS2
+205V2000027",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Oct,3rd,FG,ABC,ABC,Mr. June,DH,DH-C6000,"DH-C6000-3R-IF (Nut Type) 
+229N8008226",50.0,10,3.5,0.45,"Hub Shell Printing Nc
+Spec: Using TPGBi printing , Actual:  Without TPGBi printing",Part,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Oct,3rd,FG,ABC,ABC,Mr. June,DH,DH-3N72 ,"DH-3N72 (QR Type) 
+22YX3100526",10.0,5,1.0,0.2,"Left Horizontal Wobbling Out Spec
+Spec: < 0.30mm         Actual : 0.47mm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Nov,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 XL 118 68
+22FX000A156",200.0,30,1.0,0.03333333333333333,RH Adapter can turn during rotate,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Nov,2nd,FG,ABC,ABC,Mr. Mei,RD,RD R2000,"RD R2000 SS 
+22B01000056",50.0,50,1.0,0.02,No P Axle Cap,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Nov,2nd,FG,HCL,SUBCON,Mr. Dafit,SL,SLC7000,"SLC7000 5S
+20FLA00M0D6",40.0,40,1.0,0.025,No OC Cap,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Nov,3rd,FG,ABC,ABC,Mr. June,DH,DH-C30003N,"DH-C30003N (QR Type)
+22AU7006126",120.0,20,1.0,0.05,LH Seal Support Gap,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Nov,4th,FG,ABC,ABC,Mr. Mei,RD,RD-M5120S,"RD-M5120S GS (DATT) 
+23HM3000046",480.0,20,1.0,0.05,"Adapter Rotation Force
+Spec Less than 2.04 kgf     
+Actual 3.4 kgf",Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Nov,4th,FG,ABC,ABC,Mr. Maret,FD,FD-M3120,"FD-M3120-Boost (L) 
+22HF1302066",75.0,25,3.5,0.45,"Wrong Product 
+Spec   FD M3120 MB BM4 (Boost)
+Actual FD M3120 M BM4 (Normal)",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Nov,4th,FG,ABC,ABC,Mr. June,DH,DH-3D37,"DH-3D37 (Nut Type) 
+228R7003426",600.0,20,2.0,0.1,"Rotor Contac Surface Undercut using HBM778 -MS-FACD-OD01 No Go Gauge Can Go
+Spec  No Go Gauge, Actual Can Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Dec,1st,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED 
+26UC2000056",600.0,25,1.0,0.04,"Gap Between Lens and Upper Cap.
+Spec Less Than 0.45mm,  Actual 0.55mm",Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2014,Dec,1st,FG,ABC,ABC,Mr. July,SM,SMDUE70A,"SMDUE70A
+279S0001026",240.0,20,3.5,0.45,Cover A Poor Welding,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2014,Dec,4th,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,Indicator No Function,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Jan,1st,FG,ABC,ABC,Mr. Mei,RD,RD R2000,"RD R2000 SS
+22B01000056",1200.0,25,1.0,0.04,Outer Plate Painting Unfull,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Feb,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED
+26UC2000056",600.0,15,1.0,0.06666666666666667,"Cover Fixing Screw under spec
+Spec 0.3-0.5 N.m (3 - 5 kgf·cm), Actual 2.6  kgf·cm",Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2015,Feb,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 MM 107.5 68
+22FX0001156",120.0,5,1.0,0.2,"Point D out spec.
+Spec 85.5~87.5mm, Actual 88.22mm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Feb,3rd,FG,HCL,SUBCON,Mr. Nirwan,CS,CS-M4100,"CS-M4100-10 11-46T
+20LF1460026",400.0,10,1.0,0.1,"Lock Ring Thread NC
+Ring Thread Gauge BC30.55X24T  Go Can Not Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Feb,3rd,FG,ABC,ABC,Mr. Februari,SG,SG-5R30BT,"SG-5R30BT (#12)
+238J50037F6",256.0,5,1.0,0.2,"Pulley Snap Spring Groove is NC
+No Go Gauge Can Go(Gauge SG5R30BT-FA-DR-PR004)
+Spec No Go      Actual Go",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Feb,4th,FG,ABC,ABC,Mr. Februari,SG,SG 3C41,"SG 3C41 (175mm) (LH non-turn)
+235U7030326",480.0,20,1.0,0.05,"Mix 1pc product of SG 3C41
+Spec: 3C41 36H 175X127 qty: 20 pcs
+Actual: 3C41 36H 175: 19 pcs
+              3C41 36H 178: 1 pc",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Feb,4th,FG,ABC,ABC,Mr. Mei,RD,RD-M3100,"RD-M3100 (DATT)
+23HP3000046",960.0,2,2.0,0.45,"Parallelism Point A-D Out Spec
+Spec: +0.50-+4.00
+Actual: 5.31-5.90 mm",Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2015,Mar,1st,FG,ABC,ABC,Mr. Januari,SL,ST-R2030,"ST-R2030-(L)
+20CP20001D6",80.0,20,1.0,0.05,"Shifting Speed NC
+Spec: 5 click, Actual: 3 Click",Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Mar,1st,FG,ABC,ABC,Mr. Mei,RD,RD-M3100,"RD-M3100 (DATT) 
+23HP3000046",960.0,20,1.0,0.05,"Wrong Part Assembly on Guide Pulley
+Spec  Guide Pulley, Actual  Tension Pulley",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Mar,3rd,FG,ABC,ABC,Mr. July,SM,SM-8S20,"SM-8S20 Cover Unit
+300452054",1425.0,95,3.5,0.008333333333333333,"Tightening Torque of Cover Fixing Screw is Under Spec
+Spec: 1.1-1.6 kgf.cm, Actual: 0.95, 0.90, 0.90 kgf.cm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Mar,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-M4100,"CS-M4100-10 11-46T
+20LF1460026",400.0,5,1.0,0.2,"13T Serration GO Gauge Can Not Go In
+Spec Go Gauge ( CSHG-FA-SPRT-PR01 ), Actual Can Not Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD M370,"RD M370
+25FT3000156",1200.0,30,1.0,0.03333333333333333,"Mix Inner Link. 
+spec RDM370 Inner Link   Actual RDT4000 Inner Link",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,May,4th,SL,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,"CA Bolt is not Tightened Fully
+Spec: Must be able to tighten fully , Actual: Can't fully Tighten",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Jun,2nd,SM,ABC,ABC,Mr. July,SM,DUE50C/279P,DUE50C/279P0002026,240.0,12,1.0,0.08333333333333333,"Carton Box Damage
+(Box number is 18)",Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Jun,3rd,RD,ABC,ABC,Mr. Mei,RD,RD TY300,RD TY300 (DATT)/25YJ30000D6,1425.0,40,2.0,0.05,Outer Plate Printing Nc,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Jul,2nd,FG,ABC,ABC,Mr. June,DH,DH-3D32,"DH-3D32 (NT Type)
+228T8000426",40.0,40,3.5,0.45,"Wrong Specification product
+Spec: Clear Color
+Actual: Black Color",Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Jul,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-R
+20CM10001D6",80.0,20,1.0,0.05,No E-ring,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Jul,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3
+26UC2000056",600.0,25,1.0,0.04,CA Bolt Can't Tighten Fully,Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Jul,4th,FG,ABC,ABC,Mr. Februari,SG,SG 3C41,"SG 3C41 (168mm)
+235U7010326",480.0,20,1.0,0.05,Gap on Driver Serration depth and Driver wobbling out spec (spec less than 0.4mm actual 1.25mm),Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Aug,1st,FG,ABC,ABC,Mr. July,SM,DUE50C,"DUE50C
+279P0002026",20.0,10,3.5,0.45,Cover Water Mark,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Aug,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R3000,"ST-R3000-®
+205T10011D6",720.0,32,1.0,0.03125,Spring Pin is Not fully press.,Function,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Aug,4th,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (F) 3 SPEED 
+26UC2000056",600.0,20,2.0,0.1,"Bracket Sliting out spec.
+Spec 1.7-3.5mm Actual 1.50, 1.54mm",Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Aug,4th,FG,ABC,ABC,Mr. Agustus,FD,FD-M3136,"FD-M3136 ADP SS1
+15PT00013W2",256.0,32,1.0,0.03125,Adapter S (28.6) is shortage 1pc,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Sep,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED 
+26VW1000056",600.0,25,1.0,0.04,Lens Printing Offset,Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Sep,2nd,FG,ABC,ABC,Mr. Februari,SG,SG-3C41,"SG-3C41 36H168X120
+235U7010326",480.0,20,1.0,0.05,Free Rotation Felling Wavy,Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Sep,3rd,FG,ABC,ABC,Mr. Mei,RD,RDM3100,"RDM3100 L DATT
+23HP3000046",960.0,5,2.0,0.4,"Parallelism  A to D out of spec
+Spec: 0.50-4.00 mm
+Actual: 4.82, 4.89 mm",Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2015,Sep,3rd,FG,ABC,ABC,Mr. Mei,RD,RDM310,"RDM310 L DATT
+25W37200256",1200.0,25,1.0,0.04,No P. Axle Cap,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Sep,4th,FG,ABC,ABC,Mr. June,DH,DH-3D37,"DH-3D37 (QR Type)
+228P700F526",600.0,20,1.0,0.05,"Spoke hole Nc at diameter 2.55 ~ 2.80
+Spec: Go Gauge can go in
+Actual: Go Gauge can not Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Oct,1st,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 MM 111 68
+22FX0002156",250.0,5,1.0,0.2,"RH Adapter BC 1.37 Threading Pitch 
+Ø 34.07-34.24, Thread Ring Gauge
+ go can't go In
+Spec    : Go Gauge
+Actual : Can't Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Nov,3rd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 D-NL 122.5 68 
+22FX000D156",450.0,5,2.0,0.4,"Point B NC (Under Spec)
+Spec 10.25 ~ 10.75 mm   Actual 9.91, 9.98 mm",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Nov,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 XL 118 68
+22FX000A156",1425.0,50,1.0,0.02,"Spindle Appearance NC
+(Poor Forming on Spindle Tapper area)",Appearance,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Nov,2nd,FG,ABC,ABC,Mr. July,SM,SM-SP18,"SM-SP18-T Lead
+276004491B6",1425.0,20,3.5,0.2,"Qty on barcode not match with physical
+Spec : 100pc/bag
+Actual : 99 pc, 101 pcs, 101 pcs, 101 pcs",Part,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2015,Nov,4th,FG,ABC,ABC,Mr. September,RD,RD TY300,"RD TY300 (DATT)
+25YJ30000D6",720.0,28,3.5,0.45,B Axle Cap not fully press.,Appearance,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Dec,1st,FG,ABC,ABC,Mr. Mei,RD,RDR3000,"RDR3000 GS D-ATT
+25Z02000056",150.0,25,1.0,0.04,No B. Axle Seal Ring,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Dec,2nd,FG,ABC,ABC,Mr. Mei,RD,RDTY300,"RDTY300 D-ATT
+25YJ30000D6",720.0,5,1.0,0.2,"Parallelism A-D out spec
+Spec: -0.2 ~ 3.0 mm
+Actual: 4.51 mm",Function,Machine/Jig,Assy Process,,2018-12-13,00:00:00,1st
+2015,Dec,2nd,FG,ABC,ABC,Mr. Mei,RD,RDTY300,"RDTY300 D-ATT
+25YJ30000D6",720.0,28,1.0,0.03571428571428571,RG Axle is drop,Part,Man,Assy Process,,2018-12-13,00:00:00,1st
+2015,Dec,4th,FG,ABC,ABC,Mr. April,BB,BBES300,"BBES300 118 36X24 70
+21V90005057",15.0,5,3.5,0.45,"Shell threading no go gauge can go in
+Spec: No Go Gauge
+(Thread Ring Gauge M36 x 24
+GR 35.49 / WR 35.34)
+Actual: Can Go In",Function,Single Part,Single Part,,2018-12-13,00:00:00,1st
+2016,Jan,1st,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTX800,"RDTX800 L DATT
+25PJ30000D6",720.0,30,1.0,0.03333333333333333,"Appearance NC 
+(Paint marking on the Bracket Member)",Appearance,Single Part,Single Part,Haryanto,2016-12-31,00:00:00,1st
+2016,Jan,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 D-EL 127.5 68
+22FX000G156",450.0,20,1.0,0.05,Seal Guard is not fully pressed,Appearance,Man,Assy Process,Retno,2017-01-11,00:00:00,1st
+2016,Jan,4th,FG,ABC,ABC,Mr. Januari,SL,ST-EF41,"ST-EF41 (R) 7 SPEED
+26VW1000056",600.0,25,1.0,0.04,Bracket Sliting is NC under specSpec: 1.7 to 3.5 mmActual: 1.35 mm ,Appearance,Single Part,Single Part,Triasih,2017-01-25,00:00:00,1st
+2016,Feb,2nd,FG,ABC,ABC,Mr. April,BB,BBUN300,"BBUN300 BC137 68 117.5
+22FX008157",1250.0,3,3.0,0.45,"Spacer horizontal wobbling out of spec
+Spec : ≤  0.10 mm
+Actual: -0.15, -0.13, -0.11 mm",Function,Machine/Jig,Assy Process,Retno,2017-02-08,00:00:00,3rd
+2016,Feb,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-M360,"RD-M360 L SGS D-ATT
+25WP3200256",1200.0,3,1.0,0.3333333333333333,"Parallelism point A-D out of spec
+Spec: -1.65 ~ 1.35 mm
+Actual: -2.87 mm",Function,Machine/Jig,Assy Process,Syuron,2017-02-14,00:00:00,1st
+2016,Feb,2nd,FG,ABC,ABC,Mr. Januari,SL,ST-EF417R,"ST-EF417R L 2050
+26VW1000056",500.0,25,1.0,0.04,No Bracket riveting pin ,Part,Single Part,Single Part,Triasih,2017-02-15,00:00:00,1st
+2016,Feb,2nd,FG,ABC,ABC,Mr. June,DH,DH-C30001NS ,"DH-C30001NS 36H 140100
+229K8001226",600.0,5,1.0,0.2,"Horizontal wobbling (R) out of spec
+Spec: ≤   0.3 mm
+Actual : 0.45 mm",Function,Single Part,Single Part,Takim,2017-02-16,00:00:00,1st
+2016,Feb,4th,FG,ABC,ABC,Mr. Februari,SG,SG-3C41,"SG-3C41 28H168X120
+235U3010326",480.0,20,1.0,0.05,Axle No Laser Marking,Part,Man,Assy Process,Arsyad,2017-02-19,00:00:00,1st
+2016,Feb,4th,FG,ABC,ABC,Mr. April,BB,BBES300,"BBES300 113 BC137 68
+21V90001057",700.0,1,1.0,0.45,"(1) Axle RH Vertical wobbling & 
+(2) RH Vertical Serration wobbling are NC (over spec)
+Spec: ≤  0.10 mm (both)
+Actual: (1). 0.19 mm, (2). 0.24 mm",Function,Single Part,Single Part,Retno,2017-02-21,00:00:00,1st
+2016,Mar,1st,FG,ABC,ABC,Mr. Februari,SG,SG3C41,"SG3C41 (168mm) (LH non-turn)
+235U7010326",480.0,20,1.0,0.05,RH Cone Seal poorly seating.,Appearance,Man,Assy Process,Arsyad,2017-03-02,00:00:00,3rd
+2016,Mar,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-(L)
+20CN20001D6",720.0,32,1.0,0.03125,Name Plate Loose ,Appearance,Machine/Jig,Assy Process,Yuda,2017-03-20,00:00:00,3rd
+2016,Mar,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-M4100,CS-M4100-10 11-46T,400.0,20,1.0,0.05,"Gear 46T, 1 Tooth Broken",Appearance,Single Part,Single Part,Yudhi,2017-03-22,00:00:00,1st
+2016,May,1st,FG,ABC,ABC,Mr. Mei,RD,RD-M5120S,RD-M5120S GS (DATT),40.0,40,1.0,0.025,Wrong used stoke adjust plate,Appearance,Man,Assy Process,Yulianis,2017-05-04,00:00:00,1st
+2016,May,4th,FG,ABC,ABC,Mr. Februari,SG,SG-5R30BT,SG-5R30BT (#12),256.0,20,1.0,0.05,Axle Looseness ( Axle Play ),Function,Machine/Jig,Assy Process,Arsyad,2017-05-25,00:00:00,1st
+2016,Jun,1st,FG,ABC,ABC,Mr. Mei,RD,RDM3020-8,"RDM3020-8 L DATT
+23J83000056",650.0,25,1.0,0.04,No Pulley Cap,Part,Man,Assy Process,Aditya,2017-06-03,00:00:00,1st
+2016,Jun,3rd,FG,ABC,ABC,Mr. April,BB,BBUN300,"BBUN300 D.EL B 68
+22FX000G157",250.0,50,1.0,0.02,Rotation feeling Wavy.,Function,Single Part,Single Part,Lisna,2017-06-10,00:00:00,1st
+2016,Jun,3rd,FG,ABC,ABC,Mr. Mei,RD,RDM30208,"RDM30208 SGS L DATT
+23J83000037",400.0,25,2.0,0.08,"Width 2 NC, Go Gauge Can Not Go In
+(check by Block Gauge )
+Spec: 10.10~10.90 mm
+Actual: 9.97, 9.98 mm
+(check by Vernier Caliper )",Function,Single Part,Single Part,Jumat,2017-06-13,00:00:00,1st
+2016,Jun,3rd,FG,ABC,ABC,Mr. Maret,FD,FDM3000TS6,"FDM3000TS6 BL ADPT
+15RN0001137",160.0,5,3.5,0.45,"Rivet B diameter rivetting is NC over spec
+Spec: 5.4~6.0 mm
+Actual: 6.25, 6.26, 6.30, 6.23, 6.21 mm",Function,Machine/Jig,Assy Process,Arif,2017-06-14,00:00:00,1st
+2016,Jun,3rd,FG,ABC,ABC,Mr. Mei,RD,RDM3100S,"RDM3100S GS D-ATT
+23HP3000046",960.0,3,2.0,0.45,"C~D parallelism is NC under spec
+Spec: -1.24mm ~ +0.76mm
+Actual: -1.58, -1.52mm",Function,Machine/Jig,Assy Process,Miftahudin,2017-06-16,00:00:00,1st
+2016,Jun,3rd,FG,SIP,SUBCON,Mr. Angga,SL,SLM20109R,"SLM20109R 2400 SUS
+20HV1001166",1425.0,25,2.0,0.08,"Gap Between Upper Cover & Lower Cover is NC over spec.
+Spec: ≤ 0.70mm    
+Actual: 1.65, 1.60mm",Appearance,Single Part,Single Part,Arif,2017-06-17,00:00:00,3rd
+2016,Jun,4th,FG,ABC,ABC,Mr. Maret,FD,FDM3706,"FDM3706 BL
+25FW1302166",1200.0,25,1.0,0.04,Chain Guide is crack after riveting,Appearance,Single Part,Single Part,Angga,2017-06-22,00:00:00,1st
+2016,Jul,1st,FG,ABC,ABC,Mr. April,BB,BBES300,"BBES300 113 36X24 70
+21V90002057",2.0,2,2.0,0.45,"Thread Ring Gauge RH Shell No go gauge can go in(M36x24 GR35.49/WR35.34)
+Spec: No Go Gauge can't go
+Actual: No go gauge Can go in",Function,Single Part,Single Part,Miftahudin,2017-07-05,00:00:00,1st
+2016,Jul,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CSLG40010,"CSLG40010
+20RH1430026",400.0,5,2.0,0.4,"Gear width 20T-23T is NC under spec.
+Spec: Go gauge can go in
+Actual: Go gauge can't go in
+(Verified by Block gauge: 1.88, 189 mm)",Function,Man,Assy Process,Retno,2017-07-08,00:00:00,1st
+2016,Jul,1st,FG,ABC,ABC,Mr. Mei,RD,RDM5120S,"RDM5120S GS D-ATT
+23HM3000046",640.0,20,1.0,0.05,Inner Plate is NC unfully coating,Appearance,Single Part,Single Part,Aditya,2017-07-08,00:00:00,1st
+2016,Jul,3rd,FG,ABC,ABC,Mr. Mei,RD,RDTY300,"RDTY300 D-ATT
+25TJ30000D6",720.0,28,1.0,0.03571428571428571,Adjust Plate is Crack.,Appearance,Single Part,Single Part,Rio,2017-07-22,00:00:00,1st
+2016,Jul,3rd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTX800,"RDTX800 L D-ATT
+25YJ30000D6",720.0,30,3.0,0.1,Adapter is appearance NC (Scratches),Appearance,Single Part,Single Part,Rudi,2017-07-21,00:00:00,1st
+2016,Jul,3rd,FG,ABC,ABC,Mr. June,DH,DH-C30001N,"DH-C30001N (Nut Type)
+229K8000226",200.0,20,3.5,0.4,Hub shell scratches on LH flange area.,Appearance,Single Part,Single Part,SOLO,2017-07-22,00:00:00,3rd
+2016,Jul,4th,FG,ABC,ABC,Mr. June,DH,DH3D37QR,"DH3D37QR L36H
+228P800F526",260.0,20,3.5,0.45,"Wrong QR Set
+Spec: QR M3050 133 BLK
+Actual: QR M3050 133 SIL",Part,Man,Assy Process,Hetty,2020-07-27,00:00:00,1st
+2016,Jul,4th,FG,ABC,ABC,Mr. April,BB,BBUN300,"BBUN300 BC137 68
+22FX000G157",200.0,25,1.0,0.04,LH Bearing easy to come out,Function,Single Part,Single Part,Iskandar,2020-07-27,00:00:00,1st
+2016,Aug,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CSM410010,"CSM410010
+20LF14201G7",192.0,12,1.0,0.08333333333333333,"Diameter Riveting (Low Side) gear is under spec
+Due to 1 of 3 rivet no riveting
+Spec: 3.75 ± 0.25 (3.50 ~ 4.00 mm)
+Actual: 2.58 mm",Function,Machine/Jig,Assy Process,Retno,2017-08-08,00:00:00,1st
+2016,Aug,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CSHG4008,"CSHG4008
+20PV14000G7",192.0,12,1.0,0.08333333333333333,"Poor riveting due to assy is wrong using 
+CS LG400 Rivet (1 pc)",Function,Man,Assy Process,Aditya,2017-08-08,00:00:00,1st
+2016,Aug,1st,FG,SIP,SUBCON,Mr. Hardiansyah,FD,FDTY510 ,"FDTY510 TS3 BL
+25YP1302066",1200.0,20,3.5,0.35,Proset Gauge Sticker is incorrect position pasted on Chain Guide,Appearance,Man,Assy Process,Ade,2017-08-24,00:00:00,1st
+2016,Sep,2nd,FG,ABC,ABC,Mr. April,BB,BBES300,"BBES300 118 BC137 68
+21V90004057",1000.0,5,2.0,0.4,"Axle Inner hole dia. 13.917-14.153 mm is NC over spec.
+Spec: No Go gauge can't go
+Actual: NO GO gauge BBES25-HT-SP-ID01 can go in.",Function,Single Part,Single Part,Aditya,2017-09-01,00:00:00,1st
+2016,Sep,3rd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 LL 113.5 68
+22FX0005156",28.0,28,3.5,0.35714285714285715,"RH Adapter Threading not fully go in
+Spec: Go Gauge can go in
+Actual: Go Gauge can't go in",Function,Single Part,Single Part,Jumat,2017-09-16,00:00:00,1st
+2016,Sep,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400,"CS-LG400-11 11-50T
+20RG1500026",400.0,20,1.0,0.05,Gear 50T is unplated,Appearance,Single Part,Single Part,Retno,2017-09-07,00:00:00,3rd
+2016,Sep,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400,"CS-LG400-11-43T-10S
+20RH1430026",400.0,5,2.0,0.4,"Gear Space Width position (11t-13t) is NC Under Spec (Go Gauge Can't Go in)
+Spec: ≥ 1.95 mm (Go gauge can go in)
+Actual: 1.93 mm (Go gauge can't go in)",Function,Single Part,Single Part,Adhit,2017-09-13,00:00:00,1st
+2016,Sep,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CSHG2009,"CSHG2009 BW
+21Y71360256",400.0,5,2.0,0.4,"Lock Ring thread BC 30.55 x 24T is NC.
+Spec: No Go gauge can't go in
+Actual: No Go gauge can go in",Function,Machine/Jig,Assy Process,Adhit,2017-08-31,00:00:00,1st
+2016,Sep,2nd,FG,ABC,ABC,Mr. Januari,SL,SL-M5100,"SL-M5100-L
+20L92000066",1300.0,25,1.0,0.04,Shifting Jammed ( NC accour after 2times shifting ).,Function,Man,Assy Process,Nilam,2017-09-16,00:00:00,3rd
+2016,Oct,3rd,FG,HCL,SUBCON,Mr. Dafit,SL,SLM315,"SLM315 8 R 2400 SUS
+20HT1001166",200.0,5,3.0,0.45,"Lever Pitch (7->L) is NC under spec 
+Spec : 17.75 - 18.35 mm, Actual : 17.61, 17.58, 17.71 mm",Function,Single Part,Single Part,Adhit,2017-10-14,00:00:00,1st
+2016,Oct,3rd,FG,SIP,SUBCON,Mr. Hardiansyah,FD,FDTY600L ,"FDTY600L 6 BML6
+22JD150066",1200.0,5,3.0,0.45,"Set Stroke (low position) is NC over spec
+Spec: 68.45~71.45 mm, Actual: 72.68, 72.38, 73.29 mm",Function,Man,Assy Process,HCL,2017-10-17,00:00:00,1st
+2016,Oct,3rd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY500 ,"RDTY500 D-ATT
+25YK30000D6",720.0,5,3.0,0.45,"CA Bolt Clearance is NC under spec
+Spec: 0.5-1.5 mm, Actual: 0.04, 0.08, 0.22 mm",Function,Man,Assy Process,SIP,2017-10-19,00:00:00,1st
+2016,Oct,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400,"CS-LG400-11-50T-11S
+20RG1500026",340.0,20,3.5,0.4,"Gear Looseness is NC by Hand Feeling. 
+Spec: No Looseness, Actual: Loose",Function,Man,Assy Process,Yudi,2017-10-27,00:00:00,1st
+2016,Nov,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-HG400,"CS-HG400-8 11-40T
+20PV1400046",800.0,2,2.0,0.45,"Gear Width 27t-33t is NC over spec.
+Spec: No go gauge can't go in (2.89 ~ 3.39 mm)
+Actual: No go gauge can go in (3.41 mm)",Function,Man,Assy Process,Aditya,2017-11-03,00:00:00,1st
+2016,Nov,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-M4100,"CS-M4100-10 11-42T
+20LF1420126",400.0,20,1.0,0.05,Double Low Spacer,Part,Man,Assy Process,Aditya,2017-11-08,00:00:00,1st
+2016,Nov,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-M3100,"RD-M3100 (DATT)
+23HP3000046",75.0,25,1.0,0.04,Pulley Cap is Poor Stamping,Appearance,Single Part,Single Part,Syengkiardi,2017-11-08,00:00:00,1st
+2016,Nov,2nd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTX800,"RDTX800 L D-ATT
+25PJ30000D6",720.0,5,3.5,0.45,"Parallelism A-D is NC Under Spec. 
+Spec : -3.0 ~ -1.0      Actual : -0.17, 0.69, 0.37, 0.44, 0.41",Function,Machine/Jig,Assy Process,Wahyu,2017-11-07,00:00:00,1st
+2016,Nov,4th,FG,ABC,ABC,Mr. April,BB,BB-ES300,"BB-ES300 126 73
+21V9000A056",407.0,20,1.0,0.05,"Spindle's serration is NC.
+Spec : Gauge BES25-MS-SP-PR13 must fully go in to Spindle serration.
+Actual : Gauge can't fully go in.",Function,Single Part,Single Part,Chika,2017-11-21,00:00:00,1st
+2016,Dec,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300,"CS-LG300-9S (11-36T)
+20RL1360046",800.0,30,1.0,0.03333333333333333,No Spacer between Gear 17T-20T,Part,Man,Assy Process,Retno,2017-12-08,00:00:00,1st
+2016,Dec,2nd,FG,ABC,ABC,Mr. Februari,SG,SG 3C41,"SG 3C41 (168mm) (LH non-turn)
+235U7110426",220.0,20,1.0,0.05,RH Lock Nut is wrong assembled with SG-3C41 Normal RH lock Nut.Spec: Silver (Bright Nickel Plating)Actual: Black (MnPO4),Part,Man,Assy Process,Yudhi,2017-12-10,00:00:00,3rd
+2016,Dec,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-M5120S,"RD-M5120S GS (DATT)
+23HM3000046",640.0,25,2.0,0.08,PT Spring is poorly seated,Function,Man,Assy Process,Arsyad,2017-12-20,00:00:00,3rd
+2016,Dec,3rd,FG,ABC,ABC,Mr. April,BB,BB-UN300 ,"BB-UN300 LL 122.5 68 OTC
+22FX000H157",450.0,50,3.5,0.18,Laser printing is NC (unfull),Appearance,Machine/Jig,Assy Process,Yulianis,2017-12-22,00:00:00,1st
+2016,Dec,4th,FG,ABC,ABC,Mr. June,DH,DH-C30003N,"DH-C30003N (Nut Type)
+22AV8000226",400.0,5,2.0,0.4,"Axle Thread M9 is NC under size.
+Spec: NO GO Gauge M9 x 1.0 NR-6g must not go in. 
+Actual: Can go in",Function,Single Part,Single Part,Widiastuti,2017-12-26,00:00:00,1st
+2017,Jan,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-A070,"ST-A070 (R) 7 SPEED
+26WC10012D6",120.0,32,1.0,0.03125,Bracket Cover is NC torn off.,Function,Single Part,Single Part,Nilam,2018-01-17,00:00:00,3rd
+2017,Jan,3rd,FG,ABC,ABC,Mr. July,SM,DUE70,"DUE70 A Cover
+279S0001026",240.0,10,2.0,0.2,Cover Left Main is NC high gating,Appearance,Single Part,Single Part,Maskur,2017-12-28,00:00:00,1st
+2017,Jan,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300,"CS-LG300-10S (11-48T)
+20RJ14800G7",144.0,12,1.0,0.08333333333333333,"1 pc OTC has shortage 3 separated parts (Lock Ring, 11T and 13T). 
+Spec: Must include Lock Ring, 11T, and 13T",Part,Man,Assy Process,Hesron,2018-01-21,00:00:00,3rd
+2017,Jan,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300,"CS-LG300-10S (11-48T)
+20RJ1480026",400.0,20,1.0,0.05,"Gear 48T has 1 tooth broken
+Spec: 48T must be completely",Part,Single Part,Single Part,Adhit,2018-01-21,00:00:00,1st
+2017,Feb,2nd,FG,ABC,ABC,Mr. Januari,FD,FD-M310,FD-M310 D6 (L),200.0,25,1.0,0.04,"Stroke Adjust Screw Mix with FDM2000Spec : 40058675 ( FDC95 Stroke adjust screw ), to FDM310.Actual : 40058678 ( FDM3000 Store adjust screw), to FDM3000/M2000.",Part,Man,Assy Process,Sholeh,2018-02-10,00:00:00,1st
+2017,Feb,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300,CS-LG300-9S (11-36T),800.0,30,1.0,0.03333333333333333,Laser printing Factory at Lowest gear 36T is NC.,Part,Machine/Jig,Assy Process,Adi,2018-02-21,00:00:00,1st
+2017,Mar,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U3020,RD-U3020-9 SGS (DATT),480.0,20,1.0,0.05,CF Plate is bent,Appearance,Single Part,Single Part,Nilam,2018-03-23,00:00:00,3rd
+2017,Mar,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300,CS-LG300-9S (11-46T),640.0,20,1.0,0.05,On 36T-46T is missing 1 pc Rivet D assy.,Part,Man,Assy Process,Syengkiardi,2018-03-23,00:00:00,1st
+2017,Apr,1st,FG,ABC,ABC,Mr. Mei,RD,RD-M3100,"RD-M3100 (DATT)
+23HP3000046",520.0,20,2.0,0.1,No Pulley Cap,Part,Man,Assy Process,Arif,2018-04-05,00:00:00,1st
+2017,Apr,1st,FG,ABC,ABC,Mr. Mei,RD,RD-U6000,"RD-U6000 GS (DATT)
+23JF2000046",480.0,20,1.0,0.05,C- ring is improper assembled to B-axle groove,Appearance,Man,Assy Process,Putri,2018-04-10,00:00:00,1st
+2017,Apr,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-10S,"CS-LG400-10S (11-48T)
+20RH1480026",620.0,20,1.0,0.05,Low spacer is bent,Appearance,Machine/Jig,Assy Process,Syengkiardi,2018-04-09,00:00:00,1st
+2017,Apr,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-U3020-9 SGS,"RD-U3020-9 SGS (DATT)
+23JL3000046",480.0,20,1.0,0.05,Adjust Plate is crack,Appearance,Single Part,Single Part,Dadi/Nilam,2018-04-11,00:00:00,1st
+2017,Apr,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 LL 122.5 68
+22FX000H156",400.0,50,1.0,0.02,Rotation Feeling is NC (unsmooth) reflects to HPSTD is also NC over spec.Spec: Rotation feeling must be smooth and HPSTD ≤ 1.35 mN.m Actual: Rotation feeling unsmooth and HPSTD 1.97 mN.m,Function,Single Part,Single Part,Retno,2018-04-06,00:00:00,1st
+2017,Apr,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-9S,"CS-LG300-9S (11-36T)
+20RL1360046",800.0,30,1.0,0.03333333333333333,Double Spacer,Function,Man,Assy Process,Dwi,2018-04-19,00:00:00,1st
+2017,Apr,3rd,FG,ABC,ABC,Mr. Maret,FD,FD-U4000 ,"FD-U4000 M (L)
+22K91301066",700.0,50,1.0,0.02,FD-U4000 is mixed using FD-U6000 Bracket and ClampSpec: FD-U4000 Bracket and Clamp (Ed-coat)Actual: FD-U6000 Bracket and Clamp (Grey spray paint),Part,Man,Assy Process,Soleh,2018-04-19,00:00:00,1st
+2017,May,1st,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 LL 113.5 68
+22FX0004156",900.0,5,3.5,0.45,"A point is NC under spec
+Spec: 2.9 ~ 3.5 mm
+Actual: 2.69, 2.68, 2.72, 2.55 mm",Function,Single Part,Single Part,Retno,2018-05-03,00:00:00,1st
+2017,May,2nd,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 117.5 68
+22FX0008156",200.0,20,2.0,0.1,"Rotation Feeling is NC ( wavy feeling ) Reflect to HPstd NC
+Spec <= 1.35 mN.m, Actual: 1.73, 3.80mN.m",Function,Single Part,Single Part,Retno,2018-05-16,00:00:00,1st
+2017,Jun,4th,FG,ABC,ABC,Mr. April,BB,BB-UN300,"BB-UN300 D-NL 122.5 73
+22FX000F156",50.0,50,3.5,0.16,"Rotation feeling is NC (wavy)Reflect to HPSTD is out of spec
+Spec <= 1.35 mN.m Actual 1.84 ~ 2.21 mN.m",Function,Man,Assy Process,Siswanto,2018-06-22,00:00:00,1st
+2017,Jul,1st,FG,ABC,ABC,Mr. June,DH,FH-U6060,FH-U6060 Hub Shell Assembly,360.0,2,2.0,0.45,Hub shell Thread M58x1.5-6H Go gauge can not go in.Spec: GO gauge must go,Appearance,Single Part,Single Part,Retno,2018-07-07,00:00:00,1st
+2017,Jul,1st,FG,ABC,ABC,Mr. June,DH,FH-U6060,FH-U6060 Hub Shell Assembly,50.0,50,2.0,0.04,"Hub shell printing color is NC.
+Spec: Silver colorActual: Brown color",Appearance,Single Part,Single Part,Ayub,2018-07-07,00:00:00,1st
+2017,Jul,2nd,FG,ABC,ABC,Mr. Maret,FD,FD-U4000,"FD-U4000 M (L)
+22K91301066",1200.0,50,3.0,0.06,Rubber pad is improper assembled on Chain guide,Appearance,Man,Assy Process,Ayub/Alex,2018-07-14,00:00:00,1st
+2017,Jul,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000 R
+20CM10011D6",720.0,32,1.0,0.03125,BL Return Spring does not hook on Adapter properly,Function,Man,Assy Process,Yuli S,2018-07-24,00:00:00,1st
+2017,Jul,4th,FG,ABC,ABC,Mr. Maret,FD,FD-U6000,"FD-U6000 D (L)
+22JZ2400066",40.0,40,1.0,0.025,No E-ring on Axle A,Part,Man,Assy Process,Yusuf,2018-07-25,00:00:00,1st
+2017,Aug,2nd,FG,ABC,ABC,Mr. Maret,FD,FD-U4000,"FD-U4000 (L)
+22K11301066",1200.0,25,3.5,0.45,"Chain Guide model marking has missing dash (-) marking
+Spec: FD-U4000, Actual: FD U4000",Appearance,Single Part,Single Part,Soleh,2018-08-10,00:00:00,1st
+2017,Aug,4th,FG,ABC,ABC,Mr. Mei,RD,RD M310,"RD M310
+25W87200256",1100.0,25,1.0,0.04,Cable adjust barrel toque is NC under spec due to No Cable adjust spring.,Function,Man,Assy Process,Junaidi,2018-08-25,00:00:00,3rd
+2017,Aug,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-9S,"CS-LG300-9S (11-36T)
+20RL1360046",800.0,20,1.0,0.05,Low Spacer is bending,Appearance,Machine/Jig,Assy Process,Yulianis,2018-08-21,00:00:00,1st
+2017,Sep,1st,FG,ABC,ABC,Mr. Maret,FD,FD-U4000,"FD-U4000 L (M)
+22K11300066",1200.0,25,1.0,0.04,No Laser Marking (Factory CUES) on Chain Guide,Appearance,Man,Assy Process,Arsyad,2018-09-06,00:00:00,1st
+2017,Sep,4th,FG,ABC,ABC,Mr. Maret,FD,FD-U4000,"FD-U4000 L (L)
+22K11301066",200.0,3,1.0,0.3333333333333333,"Release Tension is NC under spec. Spec : ≥5.1kgf, Act : 4.44kgf",Function,Machine/Jig,Assy Process,Yuli,2018-09-21,00:00:00,1st
+2017,Oct,1st,FG,HCL,SUBCON,Mr. Dafit,SL,Outer Casing (L:600 mm) ,Outer Casing (L:600 mm) ,14.0,14,3.5,0.45,"Outer Casing (L:600 mm) ""Factory SIS OT-SP41"" silver marking is unfull.
+Process: Hot stamp",Appearance,Machine/Jig,Assy Process,Junaidi,2018-10-23,00:00:00,1st
+2017,Oct,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-U6000,RD-U6000 GS (DATT),480.0,20,1.0,0.05,PT Spring is not fully hooked on Outer plate hole,Function,Man,Assy Process,Dafid,2018-10-09,00:00:00,3rd
+2017,Nov,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-U6020-11,"RD-U6020-11 GS (DATT)
+23JH3000046",480.0,20,1.0,0.05,"Guide Spring Pin Riveting is poor.Effect to Riveting diameter is under spec.Spec >3.6mm, Actual 3.3mm",Function,Machine/Jig,Assy Process,Rio,2018-11-08,00:00:00,1st
+2017,Nov,2nd,FG,ABC,ABC,Mr. Mei,RD,RD TY300,"RD TY300 (DATT)
+5YJ30000D6",720.0,28,1.0,0.03571428571428571,Adjust Plate is crack.,Appearance,Single Part,Single Part,Agus,2018-11-08,00:00:00,1st
+2017,Dec,1st,FG,ABC,ABC,Mr. Maret,FD,FD-U6000,"FD-U6000 M (L)
+22JY1301066",1100.0,50,1.0,0.02,Rivet A riveting height is Under Spec.Spec 0.5 ~ 0.9mm Actual 0.15mm.,Function,Machine/Jig,Assy Process,Yulianis,2018-11-30,00:00:00,1st
+2017,Dec,1st,FG,ABC,ABC,Mr. April,BB,BB-ES300,"BB-ES300 118 68
+21V90004056",60.0,5,3.5,0.45,"Spindle RH Serration Vertical Wobbling is out of spec.Spec: ≤ 0.10mm, Actual: 0.17, 0.12, 0.15, 0.13 mm",Function,Single Part,Single Part,Yuli,2018-11-29,00:00:00,1st
+2017,Dec,1st,FG,ABC,ABC,Mr. Mei,RD,RD-U4000 ,"RD-U4000 GS (DATT)
+23JG2000046",480.0,20,1.0,0.05,"Wrong Pulley part is assembled on Cage Tension Pulley side.
+Spec: Tension Pulley, Actual: Guide Pulley",Part,Man,Assy Process,Retno,2018-12-05,00:00:00,1st
+2017,Dec,2nd,FG,ABC,ABC,Mr. June,DH,DH SVP,DH SVP,20.0,20,3.5,0.45,"Wrong assembly of Hub Cap.
+Spec: Hub Cap Silver, Actual: Hub Cap Black",Part,Man,Assy Process,Rio,2018-12-13,00:00:00,1st
+2017,Dec,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-10S,"CS-LG400-10S (11-43T)
+20RH1430026",192.0,11,3.0,0.2727272727272727,"PR01 gauge can't go through into CS splinesConfirmed by Daruma jig and Free Hub, the CS is stuck (can not go through).",Function,Machine/Jig,Assy Process,Takim,2018-12-18,00:00:00,1st
+2018,Jan,1st,FG,ABC,ABC,Mr. Januari,SL,SL SVP ST-R3000,"SL SVP ST-R3000 Bracket Cover
+30022323",450.0,50,3.5,0.08,"Extra 1pc Bracket Cover R, spec: 450 pcs Actual: 451pcs
+Shortage 3 pcs Bracket Cover L, spec: 450 pcs Actual: 447pcs",Part,Man,Assy Process,Hetty,2019-01-09,00:00:00,1st
+2018,Jan,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-10S,"CS-LG300-10S (11-48T)
+20RJ1480026",640.0,20,1.0,0.05,Gear 28T 1 Tooth is broken,Appearance,Single Part,Single Part,Aisyah,2019-01-15,00:00:00,1st
+2018,Jan,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-11S,"CS-LG400-11S (11-45T)
+20RG1450026",640.0,20,3.0,0.15,"Gear Position 45T is out of spec
+Spec: -3.55 ~ -3.05mm Actual : 
+sample 1 ( pt1=-3.58, pt2=-3.69, pt3=-3.79, pt4=-3.60 ) 
+sample 2 ( pt1=-3.59, pt2=-3.65, pt3=-3.79, pt4=-3.65 ) 
+sample 3 ( pt1=-3.71, pt2=-3.65, pt3=-3.77, pt4=-3.67 )",Function,Machine/Jig,Assy Process,Iskandar,2019-01-18,00:00:00,3rd
+2018,Feb,1st,FG,ABC,ABC,Mr. Mei,RD,RD-U6070-GS,"RD-U6070-GS SUB ASSY-2
+30054181",480.0,30,1.0,0.03333333333333333,"Missing Retaining Ring 1pc on one side.
+Spec: 2 pcs, Actual: 1pc",Part,Man,Assy Process,Wahyu,2019-02-01,00:00:00,3rd
+2018,Feb,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-10S,"CS-LG400-10S (11-48T)
+20RH1480026",640.0,20,3.5,0.3,Lowest Spacer is Bending,Appearance,Machine/Jig,Assy Process,Iskandar,2019-02-02,00:00:00,3rd
+2018,Feb,4th,FG,ABC,ABC,Mr. Didik,SC,SUS SHIFT INNER CBL 100P,"SUS SHIFT INNER CBL 100P
+27KU21010V7",300.0,95,1.0,0.0033333333333333335,"Shortage 1 pc of Inner Wire
+Spec: 300 pcs / CartonActual: 299 pcs / Carton",Part,Man,Assy Process,Abdul Wahid,2019-02-13,00:00:00,1st
+2018,Mar,1st,FG,ABC,ABC,Mr. Mei,RD,"RD M310
+25W87200256","RD M310
+25W87200256",400.0,75,3.0,0.04,"Stroke Adjust Plate Crack ( NC 3 lot, no lot 240301002A05 = NC% = 1 of 25 no lot 240301004A01 = NC% = 1 of 25 no lot 240301005A05 = NC% = 1 of 25 )",Appearance,Single Part,Single Part,Saripah,2019-03-01,00:00:00,1st
+2018,Mar,1st,FG,ABC,ABC,Mr. Lufdi,BB,BB-ES300,"BB-ES300 113 68
+21V90001056",67.0,5,3.0,0.45,"Serration Wobbling RH Vertical out of specSpec : ≤ 0.10mm Actual : 0.15, 0.16, 0.17mm",Function,Man,Assy Process,Retno/Jumat,2019-02-28,00:00:00,1st
+2018,Mar,1st,FG,ABC,ABC,Mr. Lufdi,BB,BB-ES300,"BB-ES300 113 73
+21V90003056",30.0,30,1.0,0.03333333333333333,Mixed Spindle Spec : BBES300 113 BC 137 73 SpindleActual : BBES300 113 BC 137 68 Spindle,Part,Man,Assy Process,Lufdi,2019-03-02,00:00:00,1st
+2018,Mar,1st,CQ,SOLO,SUBCON,Mr. Hariyanto,RD,RDR3000,"RDR3000
+25Z01000056",1200.0,25,3.0,0.12,"P Axle Cap is not fully pressed
+Spec: Cap must be flush with PM
+Actual : Cap is protruded",Appearance,Single Part,Single Part,Hariyanto (SOLO),2019-03-06,00:00:00,3rd
+2018,Mar,1st,FG,ABC,ABC,Mr. Lufdi,BB,BB-ES300,"BB-ES300 121 68
+21V90007056",70.0,20,1.0,0.05,No Seal Guard,Part,Man,Assy Process,Lufdi,2019-03-08,00:00:00,1st
+2018,Mar,3rd,CQ,SOLO,SUBCON,Mr. Hariyanto,RD,RDR3000,"RDR3000 GS D-ATT
+25Z02000056",725.0,95,1.0,0.01,Scratches on Outer Plate,Appearance,Man,Assy Process,Hariyanto (SOLO),2019-03-15,00:00:00,1st
+2018,Mar,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-(L)
+20CN20001D6",720.0,32,1.0,0.03125,Extra e-ring in complete product,Part,Man,Assy Process,Dion,2019-03-15,00:00:00,1st
+2018,Mar,3rd,FD,ABC,ABC,Mr. Rachmat FD,FD,FD-M315,"FD-M315 T6 (L) OTC (Packing)
+12EE0001037",150.0,25,2.0,0.08,Rivet B spring is not hooked on the Chain Guide,Appearance,Man,Assy Process,Rachmad,2019-03-19,00:00:00,1st
+2018,Mar,4th,CQ,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY300,"RDTY300 D-ATT
+25YJ30000D6",120.0,95,1.0,0.008333333333333333,Stroke Adjust Plate is crack,Appearance,Man,Assy Process,Hariyanto (SOLO),2019-03-22,00:00:00,3rd
+2018,Mar,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-9S,"CS-LG300-9S (11-46T)
+20RL1460026",640.0,20,3.5,0.45,"Gear loose
+Spec : No Loose",Function,Machine/Jig,Assy Process,Dadi,2019-03-22,00:00:00,1st
+2018,Mar,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R2000-R,"ST-R2000-R
+20CM10001D6",720.0,6,1.0,0.16666666666666666,"IPI has shortage qty 12 pcs
+Spec: 60 pcs / box
+Actual : 48 pcs / box",Part,Man,Assy Process,Yusuf,2019-03-20,00:00:00,3rd
+2018,Mar,4th,CQ,ABC,ABC,Mr. Januari,RD,RD-U4000 GS,"RD-U4000 GS (DATT) 
+23JG2000046",480.0,95,1.0,0.007692307692307693,Bracket Member has scratch marks,Appearance,Man,Assy Process,Rio,2019-03-26,00:00:00,1st
+2018,Mar,3rd,FG,ABC,ABC,Mr. Lufdi,BB,BB-ES7710,"BB-ES7710 109.5 68
+21RY1100257",50.0,6,2.0,0.3333333333333333,"Spindle RH Serration Vertical Wobbling is out of spec
+Spec: ≤ 0.10 mm
+Actual: 0.17mm, 0.15mm",Function,Man,Assy Process,Retno,2019-03-19,00:00:00,1st
+2018,Apr,1st,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000 R
+20CM10001D6",720.0,80,1.0,0.0125,Main lever support R Broken ( detected during shifting check ),Appearance,Single Part,Single Part,Yuda,2019-04-01,00:00:00,1st
+2018,Apr,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-HG400-8,"CS-HG400-8 (11-45T) OTC (Packing)
+20PV14500G7",192.0,80,1.0,0.0125,Gear 45T wording marking Factory is not firmly straight.,Appearance,Single Part,Single Part,Aditya,2019-04-03,00:00:00,1st
+2018,Apr,1st,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000 R
+20CM10001D6",58.0,58,1.0,0.017241379310344827,BL Return Spring does not hook on Adapter properly,Function,Man,Assy Process,Yuda,2019-04-03,00:00:00,1st
+2018,Apr,1st,FG,ABC,ABC,Mr. Mei,RD,RD-U6000,"RD-U6000 GS (DATT)
+23JF2000046",480.0,80,1.0,0.0125,Inner Plate surface texture is rough.,Appearance,Man,Assy Process,Yulianis,2019-04-05,00:00:00,1st
+2018,Apr,2nd,FG,HCL,SUBCON,Mr. Dafit,SL,SL3S41E Cover Set,SL3S41E Cover Set,1425.0,95,3.5,0.0185,"SLRS31 Tapping Screw Quantity is shortage 37 pcs.
+Spec : 2,000 pcs
+Actual : 1,963 pcs",Part,Man,Assy Process,Dafit (HCL),2019-04-16,00:00:00,1st
+2018,Apr,2nd,FG,ABC,ABC,Mr. Rachmat FD,FD,FD SVP FDR3000,"FD SVP FDR3000 Cable Fixing Bolt Unit
+30022406",20.0,20,3.5,0.45,"Wrong Combination of part 
+         Spec:                                                Actual:
+         40045723 Cable Fixing Plate        40045723 Cable Fixing Plate
+         40045733 Support Bolt                30021748 Converter Insert
+         40007394 Cable Fix Bolt               40007394 Cable Fix Bolt ",Part,Man,Assy Process,Yuli/Atin,2019-04-06,00:00:00,1st
+2018,Apr,3rd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-10S,"CS-LG300-10S (11-48T)
+20RJ1480026",640.0,5,3.0,0.45,"48T Gear Position pt-2 and pt-3 are under spec
+Spec: 0.30 ~ 0.80mm
+Actual: pt-2 = 0.05, 0.12, 0.16mm 
+             Pt-3 = 0.13, 0.14, 0.19mm",Function,Man,Assy Process,Dadi,2019-04-17,00:00:00,1st
+2018,Apr,3rd,FG,ABC,ABC,Mr. June,DH,DH-UR708,"DH-UR708 3D(QR)
+22GC8001126",195.0,20,3.0,0.15,"Effective threading length for Lock Ring tightening [C.A] is NC
+Spec: U Block Gauge must not go in
+Actual: U Block Gauge can go in",Function,Single Part,Single Part,Dwi,2019-04-16,00:00:00,1st
+2018,Apr,4th,FG,HCL,SUBCON,Mr. Dafit,SL,SLU4000,"SLU4000 L
+20R52000066",1425.0,95,3.5,0.032,Upper Cover is scratched,Appearance,Man,Assy Process,Dafit (HCL),2024-04-22,00:00:00,1st
+2018,Apr,4th,FG,HCL,SUBCON,Mr. Dafit,SL,SLU6000,"SLU6000
+20EA304H066",195.0,5,1.0,0.2,"Lever Force (W/O Hub) is NC (over spec)
+Spec: 0.85~15.55 kgf, Actual: 1.56~1.74 kgf",Function,Single Part,Single Part,Dafit (HCL),2019-04-17,00:00:00,1st
+2018,Apr,4th,FG,ABC,ABC,Mr. Mei,RD,RD-U6020-11,"RD-U6020-11 GS (DATT)
+23JH3000046",480.0,80,1.0,0.0125,No End Adjust Bolt ( 40074536 ,Part,Man,Assy Process,Agus,2024-04-22,00:00:00,1st
+2018,Apr,4th,FG,ABC,ABC,Mr. Lufdi,BB,BB-UN300,"BB-UN300 LL 122.5 73
+22FX000J156",510.0,80,1.0,0.0125,LH Bearing Seal Guard ( 1side ) was assembled opposite.,Appearance,Man,Assy Process,Retno,2019-04-23,00:00:00,1st
+2018,Apr,4th,FG,ABC,ABC,Mr. Lufdi,BB,BB-UN300,"BB-UN300 MM 111 68
+22FX0002156",688.0,20,3.0,0.15,"Spindle Hole treading ( Left and Right Hand ) is NC.
+Spec: Thread plug gauge  M8x1  6H GP/NP Go Gauge can go in.
+Actual:  Go Gauge can not go in.",Function,Single Part,Single Part,Retno,2024-04-22,00:00:00,1st
+2018,Apr,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-9S,"CS-LG300-9S (11-36T)
+20RL1360046",800.0,80,1.0,0.0125,"Laser Marking ""Factory"" is Offset",Appearance,Machine/Jig,Assy Process,Aditya,2019-04-23,00:00:00,1st
+2018,May,1st,FG,ABC,ABC,Mr. Zulkifli,CS,CS-M4100-10,"CS-M4100-10 11-46T OTC
+20LF1460126",192.0,5,3.0,0.45,"Gear Horizontal Wobbling is out of spec
+Spec : ≤ 0.45 mm
+Actual : 0.55, 0.55, 0.50 mm",Function,Man,Assy Process,Dadi,2019-05-02,00:00:00,1st
+2018,May,1st,FG,ABC,ABC,Mr. Mei,RD,RD-U4000,"RD-U4000 GS (DATT)
+23JG2000046",480.0,50,3.5,0.1,Stroke Adjust Plate is crack,Appearance,Machine/Jig,Assy Process,Saripah,2019-04-30,00:00:00,3rd
+2018,May,1st,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY300,"RDTY300 ADPT/
+25YJ30010D6",720.0,12,3.5,0.3333333333333333,"Wrong Barcode Label
+FG Spec: RDTY300 ADPT 
+Actual label: RDTY300 DATT",Part,Man,Assy Process,Hariyanto (SOLO),2019-04-30,00:00:00,1st
+2018,May,2nd,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-11S ,"CS-LG400-11S (11-45T)
+20RG1450026",640.0,80,1.0,0.0125,"No Laser Marking ""LINKGLIDE"" on Lowest Gear",Appearance,Machine/Jig,Assy Process,Iskandar,2019-05-06,00:00:00,3rd
+2018,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD TY300,"RD TY300 (DATT)
+25YJ30000D6",720.0,80,1.0,0.0125,Plate Member has damage,Appearance,Machine/Jig,Assy Process,Saripah,2019-05-14,00:00:00,1st
+2018,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U4020-9,"RD-U4020-9 SGS (DATT) 
+23JK3000046",280.0,60,3.0,0.05,"B-Axle Hexagon 5 dimension is NC
+Spec : Go Gauge can Go
+Actual : Go Gauge can not Go",Function,Single Part,Single Part,Rio,2019-05-13,00:00:00,1st
+2018,May,3rd,FG,SOLO,SUBCON,Mr. Mei,RD,RD TY300,"RD TY300 (DATT) Rev 4
+25YJ30000D6",720.0,80,1.0,0.0125,Outer Link has scratches,Appearance,Man,Assy Process,Hariyanto (SOLO),2019-05-09,00:00:00,3rd
+2018,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U6020-11,"RD-U6020-11 GS (DATT) 
+23JH3000046",480.0,60,3.5,0.45,Tension Pulley is not equal to Drawing,Appearance,Man,Assy Process,Agus/Munthe,2019-05-14,00:00:00,3rd
+2018,May,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U3020-9,"RD-U3020-9 SGS (DATT)
+23JL3000046",480.0,60,1.0,0.016666666666666666,"RD-U3020 Mixed Inner Link.
+Spec:  RD-U3020 Inner Link.
+Actual: RD-U4020 Inner Link.",Part,Man,Assy Process,Rio,2019-05-15,00:00:00,3rd
+2018,May,3rd,FG,ABC,ABC,Mr. Lufdi,BB,BB-UN300K,"BB-UN300K D-NL 122.5 68
+22FX000N156",803.0,80,3.5,0.05,"Tube has appearance NC ""white patches"".",Appearance,Single Part,Single Part,Retno,2019-05-15,00:00:00,1st
+2018,May,4th,FG,ABC,ABC,Mr. June,DH,DH-3D32,"DH-3D32 (QR Type)
+228S8009526",10.0,10,1.0,0.1,Hub Shell RH Flange is scratched,Appearance,Man,Assy Process,Takim,2019-05-14,00:00:00,1st
+2018,May,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG300-10S,"CS-LG300-10S (11-48T) 
+20RJ1480026",640.0,80,3.5,0.1,"Gear has appearance NC 
+(improper rework of touch-up unipaint).",Appearance,Man,Assy Process,Iskandar,2019-05-15,00:00:00,1st
+2018,May,4th,FG,SIP,SUBCON,Mr. Hardiansyah,FD,FDR2000,"FDR2000 BM
+22B11301066",1200.0,95,3.0,0.024,Bracket is scratched,Appearance,Single Part,Single Part,Hardiansyah (SIP),2019-05-20,00:00:00,3rd
+2018,May,4th,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY500,"RDTY500 D-ATT
+25YK30000D6",720.0,80,1.0,0.0125,"Outer Plate is damaged
+(cause to paint chipped off)",Appearance,Man,Assy Process,Hariyanto (SOLO),2019-05-27,00:00:00,3rd
+2018,Jun,1st,FG,ABC,ABC,Mr. Lufdi,BB,BB-UN300,"BB-UN300 D-H 115 68
+22FX0007156",50.0,50,2.0,0.04,RH Seal Ring is improper assembled,Appearance,Man,Assy Process,Retno,2019-06-03,00:00:00,1st
+2018,Jun,1st,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-(R) 
+20CM10001D6",720.0,80,3.5,0.1125,"Bracket is mixed.
+Spec Bracket STR2000R  Actual Bracket STR3000R",Part,Man,Assy Process,Yusuf,2019-06-06,00:00:00,1st
+2018,Jun,1st,FG,HCL,SUBCON,Mr. Dafit,SL,SLM315,"SLM315 8R
+20HT1001166",1425.0,95,1.0,0.008,Lower cover is scratched,Appearance,Machine/Jig,Assy Process,Dafit (HCL),2019-06-05,00:00:00,1st
+2018,Jun,1st,FG,HCL,SUBCON,Mr. Dafit,SL,SLM315,"SLM315 8R
+20HT1001166",1425.0,95,1.0,0.008,Lens printing “8” is NC (incomplete printed) ,Appearance,Single Part,Single Part,Dafit (HCL),2019-05-31,00:00:00,1st
+2018,Jun,1st,FG,ABC,ABC,Mr. Januari,SL,ST-R2000,"ST-R2000-(L) 
+20CN20001D6",720.0,80,1.0,0.0125,Bracket is scratched,Appearance,Single Part,Single Part,Nova,2019-06-06,00:00:00,3rd
+2018,Jun,1st,FG,ABC,ABC,Mr. Januari,SL,ST-A070,"ST-A070 (R) 7 SPEED 
+26WC10002D6",720.0,80,3.0,0.0375,Bracket Cover hole for grip adjust bolt is blocked,Function,Single Part,Single Part,Else,2019-06-04,00:00:00,1st
+2018,Jun,1st,FG,ABC,ABC,Mr. Mei,RD,RD TY300,"RD TY300 (DATT)
+25YJ30000D6",720.0,80,1.0,0.0125,There is an extra part (B-Axle Cap) stuck in the RD link set area,Appearance,Man,Assy Process,Saripah,2019-06-05,00:00:00,1st
+2018,Jun,2nd,FG,ABC,ABC,Mr. September,SM,SM SC INNER OTC,"SM SC INNER OTC (Packing)
+27KU21010V7",72.0,95,1.0,0.0016666666666666668,Inner wire casting head has excess material ( flashes ),Appearance,Single Part,Single Part,Atin,2019-06-07,00:00:00,1st
+2018,Jun,2nd,FG,HCL,SUBCON,Mr. Dafit,SL,STEF41L,"STEF41L L 1800
+26UC2000056",600.0,95,1.0,0.01,Cable Adjust Bolt is Tight ( Can’t fully tighten ),Function,Man,Assy Process,Dafit (HCL),2019-06-03,00:00:00,1st
+2018,Jun,2nd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RD TY300,"RD TY300 (DATT) 
+25YJ30000D6",400.0,50,3.5,0.12,SPC OCS Label Barcode printing is incomplete,Appearance,Machine/Jig,Assy Process,Hariyanto (SOLO),2019-06-07,00:00:00,1st
+2018,Jun,2nd,FG,ABC,ABC,Mr. September,CS,CS-LG300-9S,"CS-LG300-9S (11-36T) 
+20RL1360046",800.0,10,1.0,0.1,"Mixed Label sticker on 1 Box 
+Spec: 2 Label sticker on 1 carton box must be same in term of content. 
+Spec: 2 labels CSLG3009 11-36T, Lot No: 240611023 
+
+Actual: 1 Side of label is different / mixed with others
+model and lot number. 
+CSHG30010 11-39T, Lot No: 240611015    ",Part,Man,Assy Process,Dadi,2019-06-11,00:00:00,1st
+2018,Jun,3rd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDR2000,"RDR2000 SS D-ATT
+22B01000056",1200.0,5,1.0,0.2,"Guide Pulley SC play reading is under spec
+Spec : 0.5~0.7 mm
+Actual : 0.10 mm",Function,Machine/Jig,Assy Process,Hariyanto (SOLO),2019-06-13,00:00:00,3rd
+2018,Jun,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U6000,"RD-U6000 GS (DATT) 
+23JF2000046",480.0,60,1.0,0.016666666666666666,B-Axle C-Ring is poorly seated assembled to B-Axle,Appearance,Man,Assy Process,Yulianis,2019-06-13,00:00:00,1st
+2018,Jun,3rd,FG,HCL,SUBCON,Mr. Dafit,SL,SLM3157R,"SLM3157R 2050 SUS
+20HS1000137",102.0,27,1.0,0.037037037037037035,No Inner Wire End Cap accessories,Part,Man,Assy Process,Dafit (HCL),2019-06-14,00:00:00,1st
+2018,Jun,3rd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY300 ,"RDTY300 D-ATT
+25YJ30000D6",720.0,80,1.0,0.0125,Bracket Member is damaged,Appearance,Single Part,Single Part,Hariyanto (SOLO),2019-06-13,00:00:00,1st
+2018,Jun,3rd,FG,ABC,ABC,Mr. Mei,RD,RD-U8050,"RD-U8050 SGS Subset 2
+30055511",480.0,5,3.5,0.45,"PM rivet pin riveting diameter  is under spec
+Spec: ≥ Ø4.2 mm
+Actual: Ø4.05, Ø4.14, Ø3.86, Ø4.05mm",Appearance,Machine/Jig,Assy Process,Yulianis,2019-06-15,00:00:00,1st
+2018,Jun,3rd,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDR3000,"RDR3000 GS D-ATT
+25Z02000056",1200.0,80,1.0,0.0125,Outer Plate is un-coated,Appearance,Single Part,Single Part,Hariyanto (SOLO),2019-06-14,00:00:00,3rd
+2018,Jun,3rd,FG,ABC,ABC,Mr. June,RT,SM-RT-26,"SM-RT-26 M
+22KK3000066",600.0,80,1.0,0.0125,Wrong sticker pasting area ( Not equal to assembly drawing ),Appearance,Man,Assy Process,Ayub,2019-06-19,00:00:00,1st
+2018,Jun,3rd,FG,ABC,ABC,Mr. Januari,SL,ST-R3000,ST-R3000-(R) ,720.0,80,3.5,0.075,"IPI is shortage 6 pcs. 
+Spec: 60 pcs, Actual: 54 pcs",Part,Single Part,Single Part,Yuda,2019-06-23,00:00:00,3rd
+2018,Jun,4th,FG,ABC,ABC,Mr. Januari,SL,ST-R3000,ST-R3000-(R) ,720.0,80,1.0,0.0125,No BL Axle E-Ring,Part,Man,Assy Process,Yusuf,2019-06-22,00:00:00,1st
+2018,Jun,4th,FG,ABC,ABC,Mr. Januari,SL,ST-A070,ST-A070 (F),600.0,80,1.0,0.0125,No Hole of Cable Hook,Function,Single Part,Single Part,Dwi,2019-06-25,00:00:00,1st
+2018,Jun,4th,FG,HCL,SUBCON,Mr. Dafit,SL,SLM3157R,"SLM3157R 2400 SUS
+20HS1001166",1425.0,95,1.0,0.008,Inner Wire is splitted,Appearance,Single Part,Single Part,Dafit (HCL),2019-06-26,00:00:00,1st
+2018,Jun,4th,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDR2000,"RDR2000 GS D-ATT
+22B02000056",1000.0,80,1.0,0.45,"B-Axle Seal Ring is crack
+Linkset (subset) is produced at PT. SOLO",Appearance,Man,Assy Process,Hariyanto (SOLO),2019-06-26,00:00:00,3rd
+2018,Jul,1st,FG,HCL,SUBCON,Mr. Dafit,CS,CSHG318 ,"CSHG318 
+21YH1340856",1425.0,95,1.0,0.008,Gear 11T is broken,Appearance,Single Part,Single Part,"M Faris
+( PT HCL )",2019-06-28,00:00:00,1st
+2018,Jul,1st,FG,HCL,SUBCON,Mr. Dafit,SL,SLM315 ,"SLM315 8R 2050 SUS
+20HT1000166",1425.0,95,1.0,0.008,Missing Inner Hole Cap,Part,Man,Assy Process,"Nova
+( PT HCL )",2019-07-01,00:00:00,1st
+2018,Jul,1st,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY300,"RDTY300 D-ATT
+25YJ30000D6",720.0,80,1.0,0.0125,Linkset rivets (4 pcs) are not riveted,Function,Man,Assy Process,"Edi
+( PT SOLO )",2019-06-25,00:00:00,1st
+2018,Jul,1st,FG,HCL,SUBCON,Mr. Dafit,CS,CSHG41 ,"CSHG41 7 AC
+21YG1280456",1425.0,95,1.0,0.008,"CSHG41 7AC has mix on 11T combination
+Spec: 11T marking ""AC""
+Actual : 11T marking ""AW""",Part,Man,Assy Process,"M. Faris
+( PT HCL )",2019-07-03,00:00:00,1st
+2018,Jul,1st,FG,ABC,ABC,Mr. Lufdi,BB,BB-UN300,"BB-UN300 LL 122.5 68
+22FX000H156",200.0,95,1.0,0.008,"Spacer Horizontal wobbling is out of spec
+Spec <= 0.10 mm, Actual : 0.18, 0.12 mm",Function,Machine/Jig,Assy Process,Retno,2019-07-03,00:00:00,1st
+2018,Jul,1st,FG,SOLO,SUBCON,Mr. Hariyanto,RD,RDTY300,"RDTY300 D-ATT
+25YJ30000D6",720.0,80,2.0,0.025,RG axle stopper is not proper assy and 1 leg is also broken,Appearance,Method,Assy Process,"Reri
+ ( PT SOLO )",2019-07-02,00:00:00,3rd
+2018,Jul,2nd,FG,HCL,SUBCON,Mr. Dafit,SL,SLU6000L,"SLU6000L 1800 W/O OGD
+20R42001066",525.0,80,1.0,0.0125,No Inner Hole Cap,Part,Man,Assy Process,"Renaldi
+(PT HCL)",2019-07-04,00:00:00,3rd
+2018,Jul,2nd,FG,HCL,SUBCON,Mr. Dafit,SL,SLRV4008R,"SLRV4008R 2400
+20PG1001066",600.0,80,1.0,0.0125,"Upper Cover has No printing ""Factory""",Appearance,Single Part,Single Part,"Fejri
+( PT HCL )",2019-07-10,00:00:00,1st
+2018,Jul,2nd,FG,ABC,ABC,Mr. Mei,RD,RD-U8050,"RD-U8050 SGS Subset 2
+30055511",600.0,80,1.0,0.0125,Guide Spring leg does not sit on the Plate Member's groove area,Function,Man,Assy Process,Yulianis,2019-07-10,00:00:00,1st
+2018,Jul,3rd,FG,HCL,SUBCON,Mr. Dafit,SL,SLC60008L,"SLC60008L 2330X2100L
+20EA3029127",400.0,20,1.0,0.05,No IPI,Part,Man,Assy Process,"Angle 
+( HCL )",2019-07-15,00:00:00,1st
+2018,Jul,4th,FG,HCL,SUBCON,Mr. Dafit,CS,CSHG318 AW,"CSHG318 AW
+21YH1320727",300.0,50,1.0,0.02,"Lock Ring wording laser marking is NC 
+(not clear/firmed)",Appearance,Man,Assy Process,"Faris
+( PT HCL )",2019-07-19,00:00:00,1st
+2018,Jul,4th,FG,ABC,ABC,Mr. Zulkifli,CS,CS-LG400-11S (11-50T),"CS-LG400-11S (11-50T)
+20RG1500026",640.0,3,1.0,0.3333333333333333,"Lock ring thread NO GO can GO & OD is under spec.
+Spec: NO GO gauge must NO GO and 
+OD = 30.40~30.55 mm
+Actual : Can GO and OD = 30.26 mm
+*NC sample was verified using Prodn auto lock ring thread checking MC, it is able to detect.",Appearance,Man,Assy Process,Iskandar,2019-07-22,00:00:00,1st

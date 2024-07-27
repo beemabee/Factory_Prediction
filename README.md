@@ -1,32 +1,26 @@
----
-title: Unacceptable Product Prediction
-emoji: 🏭
-colorFrom: blue
-colorTo: red
-sdk: streamlit
-sdk_version: 1.37.0
-app_file: src/app.py
-pinned: false
----
-
 # Unacceptable Product Prediction
 
 ## Project Overview
 This project aims to predict the Non-Conformance (NC) percentage or unacceptable product in a manufacturing process using machine learning techniques. The project involves data cleaning, exploratory data analysis, model training, and the development of a Streamlit web application for real-time predictions and model interpretability.
 
+I'm also include the `Dashboard` for analyzing the dataset and visualization using looker studio: https://lookerstudio.google.com/u/0/reporting/af684925-6d5b-4b7a-9e5b-f5ed9e48b797/page/mVE7D 
+
 ## Demo
+Here is a demo of the NC or `Unacceptable Product` prediction application based on Machine Learning using the XGBoost algorithm. SHAP analysis is also used to provide an overview of the influence of each feature on the NC prediction.
+![Alt Text](https://github.com/beemabee/Factory_Prediction/tree/main/documentation/demo.gif)
+
 
 ## Project Structure
 - `src/`: Contains the source code
   - `training.ipynb`: Jupyter notebook for data preprocessing and model training
   - `app.py`: Streamlit application for predictions and SHAP analysis
 - `model/`: Stores trained models and scalers
-- `data/`: Contains the dataset (not included in the repository)
+- `data/`: Stores the dataset and new_data after preprocessing
 
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Factory_Prediction.git
+   git clone https://github.com/beemabee/Factory_Prediction.git
    cd Factory_Prediction
    ```
 
@@ -86,7 +80,7 @@ This project aims to predict the Non-Conformance (NC) percentage or unacceptable
 - Python
 - Pandas for data manipulation
 - Scikit-learn for model training and evaluation
-- XGBoost for advanced modeling
+- XGBoost, Random Forest, and Linear Regression for modeling
 - Streamlit for web application development
 - SHAP for model interpretation
 
@@ -96,7 +90,7 @@ This project aims to predict the Non-Conformance (NC) percentage or unacceptable
 - Enhance the Streamlit UI for better user experience
 
 ## Contributors
-- [Your Name]
+- Andika Atmanegara Putra
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
