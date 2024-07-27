@@ -1,3 +1,14 @@
+---
+title: Unacceptable Product Prediction
+emoji: 🏭
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.37.0
+app_file: src/app.py
+pinned: false
+---
+
 # Unacceptable Product Prediction
 
 ## Project Overview
